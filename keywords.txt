@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Nunchuck
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Nunchuck	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+read	KEYWORD2
+getJoyX	KEYWORD2
+getJoyY	KEYWORD2
+getAccX	KEYWORD2
+getAccY	KEYWORD2
+getAccZ	KEYWORD2
+getC	KEYWORD2
+getZ	KEYWORD2
+
+calibrate	KEYWORD2
+calibrateCenter	KEYWORD2
+calibrateRange	KEYWORD2
+getPercentJoyX	KEYWORD2
+getPercentJoyY	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
